@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, CPA, and Real Estate Investor.</h1>
+     <h1>CPA, tax accountant, realtor, property manager, real estate investor...and soon to be full stack developer.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
